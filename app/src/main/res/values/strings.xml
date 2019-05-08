@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Riches Chat</string>
+    <string name="chat">Chat</string>
+    <string name="home">Home</string>
+    <string name="people">People</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="signout">Signout</string>
+    <string name="profile">Profile</string>
+    <string name="fullName_profile">Mahmoud salah eldien</string>
+    <string name="age">Age:</string>
+    <string name="location_textView_profile">Surat</string>
+    <string name="nackname_textView_profile">Adhyaksh</string>
+    <string name="valueOfAge">21</string>
+    <string name="work">Work:</string>
+    <string name="valueWork">Android Developer</string>
+    <string name="full_name">Full Name</string>
+    <string name="nickname">Nickname</string>
+    <string name="country">Country</string>
+    <string name="save">Save</string>
+    <string name="status">Status</string>
+    <string name="follow">Follow</string>
+</resources>

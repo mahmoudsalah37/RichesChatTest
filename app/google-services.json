@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "564536446978",
+    "firebase_url": "https://richeschat-f406b.firebaseio.com",
+    "project_id": "richeschat-f406b",
+    "storage_bucket": "richeschat-f406b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:564536446978:android:6996076df8af6173",
+        "android_client_info": {
+          "package_name": "com.example.mahmoudsalaheldien.richeschat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "564536446978-6bodd2h73hccab9go5mot4ntblt5j9n1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mahmoudsalaheldien.richeschat",
+            "certificate_hash": "372575d6f21b01b7ce712bc879fec0058477ab8b"
+          }
+        },
+        {
+          "client_id": "564536446978-pf1m5ur82bdnotjnj4d0h40ia68dhjap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6ECBaU6-X3wOPq3tzOJF-7zCSnqHEnzc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "564536446978-pf1m5ur82bdnotjnj4d0h40ia68dhjap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

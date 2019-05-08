@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item
+        android:id="@+id/navigateChat_menu"
+        android:icon="@drawable/ic_chat_black_24dp"
+        android:title="@string/chat"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigateHome_menu"
+        android:icon="@drawable/person"
+        android:title="userOnline"
+        app:showAsAction="ifRoom" />
+    <item
+        android:id="@+id/navigatePeople_menu"
+        android:icon="@drawable/ic_people_black_24dp"
+        android:title="@string/people"
+        app:showAsAction="ifRoom" />
+
+</menu>

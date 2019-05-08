@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:layout_gravity="end"
+    android:layout_margin="10dp">
+
+    <LinearLayout
+        android:id="@+id/mess_linear_message"
+        android:layout_width="300dp"
+        android:layout_height="wrap_content"
+        android:layout_margin="5dp"
+        android:background="@color/colorAccent"
+        android:gravity="center_vertical"
+        android:orientation="horizontal"
+        android:padding="10dp">
+        <ImageButton
+            android:id="@+id/buttonVoice_MessVoice"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:visibility="gone"
+            android:contentDescription="TODO" android:src="@drawable/play"/>
+        <com.vanniktech.emoji.EmojiTextView
+            android:id="@+id/message_EmojiTextView_mes"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginStart="10dp"
+            android:layout_weight="1"
+            android:text="hello"
+            android:textColor="@color/white"
+            android:textSize="16sp"
+            android:visibility="visible"/>
+
+        <SeekBar
+            android:id="@+id/seekBar_MessVoice"
+            android:layout_marginStart="2dp"
+            android:layout_width="200dp"
+            android:layout_height="wrap_content"
+            android:layoutDirection="ltr"
+            android:visibility="gone"/>
+
+
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
